@@ -29,3 +29,4 @@ Write-Host ***********************************
 Write-Host Practicing the Git Version control using CMD 
 Write-Host **************************************
 #for pull command in cmd
+#chekcing for pull command 
